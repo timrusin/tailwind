@@ -4,6 +4,6 @@
 
 @layer base {
   html {
-    @apply bg-slate-200 text-white text-lg;
+    @apply bg-slate-200 text-black text-lg;
   }
 }
