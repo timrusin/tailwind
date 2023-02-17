@@ -6,6 +6,7 @@ module.exports = {
   theme: {
     //if you needed to build a custom "design system" you can add new themes
     screens: {
+      xs: '360px',
       sm: '480px',
       md: '768px',
       lg: '976px',
