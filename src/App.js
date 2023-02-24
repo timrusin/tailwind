@@ -1,6 +1,6 @@
 function App() {
   return (
-    <div className="flex text-center m-4 xs:text-1xl sm:text-3xl lg:text-5xl xl:text-8xl bg-gray-200">
+    <div className="flex text-center m-4 xs:text-sm sm:text-base lg:text-3xl xl:text-5xl bg-gray-200">
         <h1 className="basis-1/2 m-2 order-1 border-2 bg-red-200 hover:bg-yellow-200 ease-in duration-200 border-green-400">
           Hello world!
         </h1>
