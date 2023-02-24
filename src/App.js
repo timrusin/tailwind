@@ -1,7 +1,7 @@
 import { useState } from "react";
 
 function App() {
-  const [Bcolor, setBcolor] = useState('white')
+  const [Bcolor, setBcolor] = useState()
   const clg = (value, color) => {
     console.log(`${value} clicked`)
     setBcolor(color)
